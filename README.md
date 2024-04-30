@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @urielortega
-- 👀 I’m interested in UI/UX design
+- 👋 Hello! I’m @urielortega
+- 👀 I’m interested in Apple technologies and UI/UX design
 - 🌱 I’m currently working on iOS Development with SwiftUI
 - 👨🏻‍💻 I’m looking to collaborate on iOS projects
-- 📫 How to reach me: urielortega2522@gmail.com
+- 📫 urielortega2522@gmail.com
