@@ -1,6 +1,6 @@
 Hello! 👋🏼
-- I’m Uriel Ortega ☕️
-- Developer of the CleanPad app, available on the App Store 📔
+- ☕️ I’m Uriel Ortega.
+- 📔 Developer of CleanPad (Available on the App Store).
 
 - 💻 I’m currently working on iOS Development with SwiftUI.
 - 🍎 My focus is in Apple technologies and UI/UX design.
