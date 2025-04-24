@@ -5,7 +5,7 @@
 ---
 
 ## About Me  
-Hello! I'm an iOS Developer with a strong focus on **SwiftUI** and **Apple technologies**, and a knack for **UI/UX design**. I enjoy crafting intuitive, user-centered applications that combine aesthetics and functionality.
+Hello! I'm an iOS Developer and UX/UI Designer with a strong focus on **SwiftUI** and **Apple technologies**. I enjoy crafting intuitive, user-centered applications that combine aesthetics and functionality.
 
 - 💻 **Developer of [CleanPad](https://apps.apple.com/app/id6474883775)** – A minimalist notes app available on the App Store.  
 - ☕ **Driven by curiosity** – I’m continuously exploring new frameworks and best practices.  
